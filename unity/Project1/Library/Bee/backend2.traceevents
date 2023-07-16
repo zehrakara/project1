@@ -1,0 +1,244 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1689500076948120, "dur":23388, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500076971515, "dur":87, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500076971633, "dur":684, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500076972499, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/Project1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1689500076972678, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1689500076973615, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1689500076972343, "dur":3216, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500076975560, "dur":197987, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500077173548, "dur":133, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500077173854, "dur":1514, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1689500076972927, "dur":2651, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689500076975583, "dur":832, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689500076976416, "dur":2841, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689500076979263, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1689500076980051, "dur":3865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1689500076984000, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1689500076985344, "dur":3981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1689500076990381, "dur":5872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500076996325, "dur":4613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500077001017, "dur":3242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500077004284, "dur":5519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500077009840, "dur":4250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500077014239, "dur":155, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689500077014399, "dur":2985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500077017451, "dur":5176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689500077022716, "dur":150789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689500076972907, "dur":2663, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689500076975575, "dur":3669, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689500076980434, "dur":352, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1689500076980789, "dur":5297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1689500076986455, "dur":445, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ZEHRA\\Desktop\\unity\\Project1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689500076986902, "dur":787, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ZEHRA\\Desktop\\unity\\Project1\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689500076987693, "dur":956, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ZEHRA\\Desktop\\unity\\Project1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689500076988652, "dur":1513, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ZEHRA\\Desktop\\unity\\Project1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689500076990168, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ZEHRA\\Desktop\\unity\\Project1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689500076990243, "dur":281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ZEHRA\\Desktop\\unity\\Project1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689500076990555, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player5b065b7a-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1689500076980788, "dur":9899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1689500076991496, "dur":174171, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1689500077168835, "dur":3486, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1689500077168835, "dur":3488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/Project1_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1689500077172343, "dur":965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1689500076973471, "dur":2952, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689500076976424, "dur":2918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689500076980852, "dur":1825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1689500076982732, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1689500076982729, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1689500076983279, "dur":4582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1689500076987941, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/Project1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1689500076989690, "dur":4266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1689500076994031, "dur":3665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689500076997748, "dur":5662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689500077003468, "dur":3436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689500077006948, "dur":4773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689500077011763, "dur":4809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689500077016637, "dur":5807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689500077022498, "dur":151055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689500076972978, "dur":2609, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689500076975627, "dur":802, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500076975589, "dur":1093, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689500076976682, "dur":2581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689500076979274, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1689500076979264, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1689500076991690, "dur":133, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689500076988293, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1689500076991942, "dur":4217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500076996252, "dur":4807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500077001098, "dur":6063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500077007233, "dur":4641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500077011989, "dur":4224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500077016245, "dur":5820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689500077022147, "dur":151451, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689500076973046, "dur":2560, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689500076975610, "dur":745, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689500076976356, "dur":3095, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689500076979451, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1689500076995292, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689500076993512, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1689500076995501, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689500076999869, "dur":3003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689500077002933, "dur":2737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689500077005711, "dur":5222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689500077010978, "dur":4890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689500077015922, "dur":5428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689500077021407, "dur":152136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689500076973090, "dur":2555, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689500076975646, "dur":536, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689500076976182, "dur":3278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689500076991386, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1689500076993653, "dur":6415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689500077000268, "dur":3546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689500077003865, "dur":3777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689500077007722, "dur":5719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689500077013499, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689500077017191, "dur":5081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689500077022338, "dur":151185, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689500076973156, "dur":2731, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689500076975890, "dur":450, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689500076976340, "dur":3119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689500076991792, "dur":111, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689500076991917, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1689500076994376, "dur":5777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689500077000221, "dur":3554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689500077003808, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689500077014212, "dur":162, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689500077008196, "dur":6188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689500077014694, "dur":5126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689500077019949, "dur":2939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1689500077022946, "dur":150495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689500076973192, "dur":2777, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689500076975970, "dur":430, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689500076976400, "dur":2996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689500076982122, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1689500076984431, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500076984427, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500076985066, "dur":3563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500076990291, "dur":10111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500077000438, "dur":2855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500077003352, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500077006831, "dur":4675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500077011548, "dur":4312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500077015929, "dur":4533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689500077020513, "dur":2532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1689500077023100, "dur":150395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689500076973221, "dur":2751, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689500076975974, "dur":416, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689500076976390, "dur":3055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689500076990267, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1689500076991544, "dur":3613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500076995218, "dur":4808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500077000064, "dur":2506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500077002612, "dur":2640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500077005278, "dur":5377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500077010682, "dur":4501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500077015226, "dur":4203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689500077021601, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689500077019641, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1689500077021865, "dur":151663, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689500076973306, "dur":2670, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689500076975979, "dur":120, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689500076976100, "dur":3385, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689500076994633, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689500076992918, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1689500076994908, "dur":5396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689500077000370, "dur":2788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689500077003216, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689500077003280, "dur":2866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689500077006184, "dur":4661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689500077010890, "dur":3653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689500077014689, "dur":3638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689500077018410, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1689500077020458, "dur":6781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1689500077027331, "dur":146130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689500076973336, "dur":3027, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689500076976363, "dur":3027, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689500076981734, "dur":2123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1689500076984142, "dur":4525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1689500076989881, "dur":5525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500076995468, "dur":3995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500076999518, "dur":2972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500077002559, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500077005192, "dur":5613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500077010902, "dur":4011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500077015095, "dur":3499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689500077018634, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1689500077020780, "dur":2539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1689500077023366, "dur":150101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689500076973354, "dur":3015, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689500076976370, "dur":3076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689500076990519, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1689500076991511, "dur":3030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500076994606, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689500076994693, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077003217, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689500076997262, "dur":6049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077003384, "dur":2669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077006107, "dur":4592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077010735, "dur":3765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077014551, "dur":2960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077017543, "dur":5340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689500077022939, "dur":150573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689500076973385, "dur":3010, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689500076976395, "dur":3010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689500076985187, "dur":4646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1689500076991611, "dur":298, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689500076990292, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500076992104, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500076995188, "dur":4845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500077000094, "dur":3219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500077003356, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500077006737, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500077011070, "dur":4142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500077015251, "dur":4389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689500077019681, "dur":14441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/level0.resS" }}
+,{ "pid":12345, "tid":13, "ts":1689500077034151, "dur":139224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689500076973410, "dur":2990, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689500076976401, "dur":2971, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689500076981160, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1689500076983445, "dur":4314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1689500076987849, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":14, "ts":1689500076987848, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/Project1.exe" }}
+,{ "pid":12345, "tid":14, "ts":1689500076987980, "dur":2926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1.exe" }}
+,{ "pid":12345, "tid":14, "ts":1689500076994554, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689500076991352, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500076994903, "dur":6094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500077001024, "dur":2966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500077004019, "dur":4246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500077008361, "dur":4545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500077012976, "dur":4541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500077017576, "dur":41992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689500077059600, "dur":113762, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689500076973444, "dur":2970, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689500076976414, "dur":2930, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689500076980220, "dur":2752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":15, "ts":1689500076983024, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1689500076983021, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1689500076983448, "dur":3135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1689500076986643, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500076986640, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500076986937, "dur":7504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500076994543, "dur":3713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500076998297, "dur":5434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500077007906, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689500077003763, "dur":4225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500077008042, "dur":5207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500077013282, "dur":4445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689500077017774, "dur":50973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1689500077068767, "dur":104684, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689500076973503, "dur":2929, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689500076976432, "dur":2817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689500076979267, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689500076984868, "dur":4740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/app.info" }}
+,{ "pid":12345, "tid":16, "ts":1689500076990312, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500076992474, "dur":6821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500076999386, "dur":2721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500077002169, "dur":2764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500077004961, "dur":5372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500077010365, "dur":4605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500077015050, "dur":3745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689500077018868, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ZEHRA/Desktop/odev/Project1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1689500077021139, "dur":152471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689500077177631, "dur":840, "ph":"X", "name": "ProfilerWriteOutput" }
+,
